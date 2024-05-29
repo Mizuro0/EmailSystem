@@ -1,2 +1,1 @@
 spring.application.name=EmailSystem
-server.port=8000
